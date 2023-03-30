@@ -12,3 +12,4 @@ Computer Engineering combines the fields of electrical engineering and computer 
   - Develop mathematical methods for understanding, setting up and solving application problems
 - Mathematical Analysis II
   - Provide knowledge on the elements of mathematical analysis for functions of multiple variables
+
